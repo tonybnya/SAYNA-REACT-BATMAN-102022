@@ -18,21 +18,21 @@ function Footer() {
           récents. Version Nolan & Snyder & Reeves</span>
         </div>
         <div class="social-footer mt-3">
-          <a href="#" class="social-item hoveryellow">
+          <a href="https://www.sayna.io/" class="social-item hoveryellow">
             <img width="4%" src={logo_1} alt="" />
             <img src={logo_2} alt="" />
             <img width="4%" src={logo_3} alt="" />
           </a>
-          <a href="#" class="social-item"
+          <a href="https://web.facebook.com/tonybnya" class="social-item"
             ><img
               class="hoveryellow"
               src={logo_4}
               alt=""
           /></a>
-          <a href="#" class="social-item"
+          <a href="https://www.instagram.com/tonybnya/" class="social-item"
             ><img class="hoveryellow" src={logo_5} alt=""
           /></a>
-          <a href="#" class="social-item"
+          <a href="https://twitter.com/tonybnya" class="social-item"
             ><img class="hoveryellow" src={logo_6} alt=""
           /></a>
         </div>

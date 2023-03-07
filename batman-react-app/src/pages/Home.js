@@ -212,7 +212,7 @@ function Home() {
             </div>
           </div>
           <div class="video">
-            <a href="https://www.youtube.com/watch?v=jXrFsn9pcZY  " target="_blank"
+            <a href="https://www.youtube.com/watch?v=jXrFsn9pcZY  " target="_blank" rel="noopener noreferrer"
               ><img
                 width="100%"
                 src="../../../assets/img/illustrations_home/Bathome_ba2.png"

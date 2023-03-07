@@ -17,7 +17,7 @@ function Signup() {
       <section id="hero">
         <div className="hero-image">
           <div className="container">
-            <h1 className="hero-title text-uppercase text-white"></h1>
+            <h1 className="hero-title text-uppercase text-white">Titre h1</h1>
           </div>
         </div>
       </section>

@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
+import React from "react";
 import '../styles/login.css';
 import { Link } from 'react-router-dom';
 
@@ -8,7 +9,7 @@ function Login() {
       <section id="hero">
         <div class="hero-image">
           <div class="container">
-            <h1 class="hero-title text-uppercase text-white"></h1>
+            <h1 class="hero-title text-uppercase text-white">Title h1</h1>
           </div>
         </div>
       </section>
